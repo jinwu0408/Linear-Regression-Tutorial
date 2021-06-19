@@ -1,8 +1,4 @@
 <div>
-<h1>Linear Regression Tutorial</h1>
-</div>
-
-<div>
 <img src="thumbnail.png" width="800">
 </div>
 
