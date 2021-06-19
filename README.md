@@ -1,5 +1,9 @@
 <div>
-<img src="attachment:thumbnail.png" width="800">
+<h1>Linear Regression Tutorial</h1>
+</div>
+
+<div>
+<img src="thumbnail.png" width="800">
 </div>
 
 # Import All necessary library
